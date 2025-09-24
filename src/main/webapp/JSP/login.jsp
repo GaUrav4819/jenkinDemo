@@ -12,7 +12,7 @@
   eid:<input type="number" name="eid">
   password:<input type="text" name="password">
   <input type="submit" value="LOGIN">
-  <h4>For New Employee</h4>
+  <h4>For New Employee of Company</h4>
   <a href="openreg">Click Here</a> 
 </pre></form>
 </body>
